@@ -1,0 +1,4 @@
+Patient: John Doe
+Age: 45
+Diagnosis: Diabetes
+Prescription: Metformin 500mg
